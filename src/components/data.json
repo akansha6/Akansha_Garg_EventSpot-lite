@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Conference 2024",
+    "location": "New York",
+    "date": "2024-11-10",
+    "description": "An exciting tech event showcasing innovations in technology and startups.",
+    "image":"https://i.pinimg.com/564x/12/07/1d/12071d5abca466bbcf42d5f0896755a3.jpg",
+    "images":["https://i.pinimg.com/564x/12/07/1d/12071d5abca466bbcf42d5f0896755a3.jpg",
+    "https://i.pinimg.com/564x/2a/ea/77/2aea7705aa86f163dcdbb88d4d25a181.jpg",
+    "https://i.pinimg.com/736x/83/9b/67/839b67c1b17b8186f0f91d46f62237ba.jpg"
+    
+  ]
+  },
+  {
+    "id": 2,
+    "name": "Art Exhibition",
+    "location": "Paris",
+    "date": "2024-11-20",
+    "description": "An exclusive exhibition of modern art featuring renowned artists from around the world.",
+    "image": "https://i.pinimg.com/474x/fd/a3/37/fda3373921c09bbaf2ed9576de31d8cd.jpg",
+    "images":["https://i.pinimg.com/474x/fd/a3/37/fda3373921c09bbaf2ed9576de31d8cd.jpg",
+    "https://i.pinimg.com/564x/00/df/64/00df6491887c8c6b7755a509e946e0eb.jpg",
+  "https://i.pinimg.com/564x/03/d1/8e/03d18efd21d1bdebf05bf0216fb4954f.jpg"
+]
+  },
+  {
+    "id": 3,
+    "name": "Music Festival",
+    "location": "Los Angeles",
+    "date": "2024-12-05",
+    "description": "Join us for a day filled with live music performances from popular bands and artists.",
+    "image": "https://i.pinimg.com/564x/6f/2d/9d/6f2d9dd2f5dd3201357c4267a34920d8.jpg",
+    "images":["https://i.pinimg.com/564x/6f/2d/9d/6f2d9dd2f5dd3201357c4267a34920d8.jpg",
+  "https://i.pinimg.com/564x/2c/f8/e9/2cf8e951ec7767c6969a8a8e72b48b51.jpg",
+"https://i.pinimg.com/736x/8c/d3/79/8cd379feb761b6411014b178e7061a97.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Business Networking Event",
+    "location": "London",
+    "date": "2024-12-15",
+    "description": "A networking event for professionals to connect and share insights about industry trends.",
+    "image": "https://i.pinimg.com/736x/59/e3/52/59e352245d721b19c0024f55a9672987.jpg",
+    "images":["https://i.pinimg.com/736x/59/e3/52/59e352245d721b19c0024f55a9672987.jpg",
+  "https://i.pinimg.com/736x/26/b7/1f/26b71f042f2cfb89dd1641034dac6472.jpg",
+"https://i.pinimg.com/564x/a0/71/f7/a071f7213aeacdedeb9553b39abc5757.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Food Truck Festival",
+    "location": "Chicago",
+    "date": "2024-12-20",
+    "description": "Taste delicious food from a variety of food trucks at this annual festival.",
+    "image": "https://i.pinimg.com/564x/a4/7c/f3/a47cf388d53158840135a1ad51cdfac7.jpg",
+    "images":["https://i.pinimg.com/564x/a4/7c/f3/a47cf388d53158840135a1ad51cdfac7.jpg",
+  "https://i.pinimg.com/564x/c0/57/31/c057311915999a83724294cdb2dad049.jpg",
+"https://i.pinimg.com/564x/42/db/31/42db312265dfdecfa41732b58be0e60a.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Holiday Market",
+    "location": "San Francisco",
+    "date": "2024-12-25",
+    "description": "Shop local crafts, gifts, and food at our festive holiday market.",
+    "image": "https://i.pinimg.com/564x/ee/47/84/ee47847356f1e11f48e6d2cdfda96cdf.jpg",
+    "images":["https://i.pinimg.com/564x/ee/47/84/ee47847356f1e11f48e6d2cdfda96cdf.jpg",
+  "https://i.pinimg.com/564x/7b/59/3f/7b593f036924ffc7ea782e917ec6e1d4.jpg",
+  "https://i.pinimg.com/736x/c2/07/f6/c207f6d7a8f0b2988e4d7f7936e31d2e.jpg"
+]
+  }
+]
